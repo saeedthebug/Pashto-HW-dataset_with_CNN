@@ -5,5 +5,5 @@ This is deep learning model to classify the hand written characters and digits. 
       2: Keras
       3: Pandas
       4: Numpy
-      6:Download Data from Kaggle from following link (https://www.kaggle.com/datasets/abdulbasitkh/pashto-isolated-alphabetss-and-numerals?datasetId=2025392)
+      6:You can also Download Data from Kaggle from following link (https://www.kaggle.com/datasets/abdulbasitkh/pashto-isolated-alphabetss-and-numerals?datasetId=2025392)
       
